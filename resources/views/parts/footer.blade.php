@@ -98,7 +98,7 @@
     </div>  <!-- конец footer-inner -->    
     @if (App::currentLocale() == 'ru')  
       <div class="valuta_span">
-        <p><a href="https://valuta-dn.ru">Агрегатор объявлений о продаже валюты</a>.</p>
+        <p><a href="https://kursivalut.ru">Агрегатор объявлений о продаже валюты</a>.</p>
       </div>         
     @endif
 </footer>
